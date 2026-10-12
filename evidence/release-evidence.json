@@ -1,0 +1,8 @@
+{
+  "status": "unverified",
+  "candidate": "",
+  "checks": [],
+  "known_limits": [
+    "This reference starts unverified on purpose. Replace this file with evidence from a real release candidate."
+  ]
+}
